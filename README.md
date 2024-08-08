@@ -16,22 +16,11 @@ Sonata Link is a Python script that fetches archived links from the Wayback Mach
 
 ## Installation
 
-1. **Clone the Repository**
+- **Clone the Repository**
 
    ```sh
    git clone https://github.com/isotaka134/sonata_link.git
    cd sonata_link
-
-2. Create a Virtual Environment (optional but recommended)
-
-   ``` sh
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-3. Install Dependencies
-
-    ```
-    pip install -r requirements.txt
 
 ## Usage
 
